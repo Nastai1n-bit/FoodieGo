@@ -1,2 +1,0 @@
-# FoodieGo
-proyek front-end
